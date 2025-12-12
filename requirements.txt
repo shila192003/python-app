@@ -1,3 +1,4 @@
+docstrange==1.1.8
 streamlit==1.52.1
 pandas
 numpy
@@ -5,3 +6,4 @@ requests
 python-dotenv
 beautifulsoup4
 lxml
+
